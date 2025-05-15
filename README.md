@@ -10,8 +10,7 @@
 open your Screen Sharing application, and connect to localhost:5901
 done!
 
-###
-to write a script and launch it completely via the command line:
+### to write a script and launch it completely via the command line:
 ```
 source /opt/Xilinx/Vitis/2020.2/settings64.sh
 
