@@ -7,4 +7,5 @@ to access the Vivado GUI using a MAC's built in Screen Sharing application:
 - in another terminal window, run
 ```ssh -i <path to .pem key> -L 5901:localhost:5901 ec2-user@<ip address>```
 
-
+open your Screen Sharing application, and connect to localhost:5901
+done!
